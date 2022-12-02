@@ -28,9 +28,10 @@ $$u=u_0+\frac{\epsilon}{2}\frac{\partial f(\mathbf{x_0})}{\partial \mathbf{x_0}}
 $$\mathbf{x} = \mathbf{x}_0 + \epsilon u$$
 $$u = u+\frac{\epsilon}{2}\frac{\partial f(\mathbf{x})}{\partial \mathbf{x}}$$
 $$p=\frac{m(\mathbf{u})f(\mathbf{x})}{m(\mathbf{u}_0)f(\mathbf{x}_0)}$$
-现从0到1之间随机取一个数
+
+现在从0到1之间随机取一个数
 $k$
-. 若
+. 
 $k<p$
 则令
 $x_0=x$、
