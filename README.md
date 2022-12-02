@@ -32,7 +32,7 @@ $$p=\frac{m(\mathbf{u})f(\mathbf{x})}{m(\mathbf{u}_0)f(\mathbf{x}_0)}$$
 现在从0到1之间随机取一个数
 $k$
 . 若
-$k\textlessp$
+$k\textless p$
 则令
 $x_0=x$、
 $u_0=u$
